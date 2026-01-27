@@ -1,7 +1,5 @@
 # Assignment 6 – Simulation Based Data Generation
 
-# Assignment 6 – Simulation Based Data Generation for Machine Learning
-
 ## Objective
 The objective of this assignment is to generate a synthetic dataset using a simulation tool and apply multiple machine learning models to analyze and predict system behavior. The assignment demonstrates how modelling and simulation can be used to create data for machine learning tasks when real-world data is unavailable or costly to obtain.
 
